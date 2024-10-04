@@ -1,0 +1,13 @@
+{
+    "items": [
+      "Marcelo quiere que la aplicación sea responsiva.",
+      "La aplicación debe tener un mapa de calor que muestre las regiones de Chile.",
+      "El mapa debe pintar según el color de cuanta frecuencia tiene un lugar.",
+      "La aplicación debe funcionar en el celular.",
+      "No solo debe ser en Chile, puede ser en todo el mundo.",
+      "Se deben mostrar tanto regiones, provincias o estados de otros países.",
+      "Se pueden definir parámetros dentro del mapa, como por ejemplo delincuencia.",
+      "Debo poder iniciar sesión y guardar las búsquedas realizadas."
+    ],
+    "summary": "La aplicación debe ser responsiva y funcional en dispositivos móviles, incluir un mapa de calor para visualizar la frecuencia de lugares en Chile y en el mundo, y permitir la definición de parámetros como delincuencia. También debe ofrecer la opción de iniciar sesión y guardar búsquedas."
+  }
